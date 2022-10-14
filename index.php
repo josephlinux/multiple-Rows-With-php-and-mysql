@@ -32,7 +32,7 @@
                     <div class="card mt-4">
                         <div class="card-header">
                             <h4>How to Insert Multiple Data into Database in PHP MySQL
-                                <a href="javascript:void(0)" class="add-more-form float-end btn btn-primary">ADD MORE</a>
+                                <a href="javascript:void(0)" class="add-more-form float-end btn btn-primary">ADD MORE Data</a>
                             </h4>
                         </div>
                         <div class="card-body">
