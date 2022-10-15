@@ -49,7 +49,7 @@
                                         </div>
                                         <div class="col-md-2">
                                             <div class="form-group mb-2">
-                                                <label for="">Phone Number joseph</label>
+                                                <label for="">Phone Number</label>
                                                 <input type="text" name="phone[]" class="form-control" required placeholder="Enter Phone Number">
                                             </div>
                                         </div>
